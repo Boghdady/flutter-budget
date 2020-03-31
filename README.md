@@ -1,14 +1,19 @@
-
+# App Screens
 <table> 
-    <tr>
-    <th>Home Screen</th>
-    <th>Category Details Screen</th> 
-  </tr>
-    <tr>
-    <td><img src="https://user-images.githubusercontent.com/18363332/77971860-22377a00-72f0-11ea-8e74-041b710323bc.png" width="500" height="950"></td>
-    <td><img src="https://user-images.githubusercontent.com/18363332/77972279-30d26100-72f1-11ea-9137-5f99bd3753cf.png" width="500" height="950"></td>
-
-  </tr>
+   <tr>
+     <th>Home Screen</th>
+     <th>Category Details Screen</th> 
+   </tr>
+    
+   <tr>
+     <td>
+         <img src="https://user-images.githubusercontent.com/18363332/77971860-22377a00-72f0-11ea-8e74-041b710323bc.png"                 width="500" height="950">
+     </td>
+     <td>
+         <img src="https://user-images.githubusercontent.com/18363332/77972279-30d26100-72f1-11ea-9137-5f99bd3753cf.png"                 width="500" height="950">
+     </td>
+   </tr>
+   
 </table>
 
 
